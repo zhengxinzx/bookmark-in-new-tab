@@ -2,7 +2,7 @@
   "name": "bookmark-in-new-tab",
   "version": "1.0.0",
   "type": "module",
-  "description": "Chrome extension that show bookmarks in new tab",
+  "description": "Chrome extension that shows bookmarks in new tab",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
